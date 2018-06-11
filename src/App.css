@@ -1,0 +1,11 @@
+.header {
+  color: red;
+  padding-top: 15px;
+}
+
+.header-cn {
+  color: green;
+}
+
+/* in one case, you just want header */
+/* the other case, you just want header-cn */
